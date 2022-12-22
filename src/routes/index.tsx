@@ -1,5 +1,4 @@
 import { Navigation } from "../components/navigation"
-import { products } from "../data/products"
 
 export const Index = () => {
   return (
