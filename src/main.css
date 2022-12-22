@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply bg-stone-100;
+}
+
+.container {
+  @apply mx-auto max-w-xl;
+}
