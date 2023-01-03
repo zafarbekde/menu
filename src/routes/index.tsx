@@ -36,7 +36,7 @@ export const Index = () => {
             <article key={id} className="p-5 bg-white shadow rounded-xl">
               <div className="flex items-start justify-between gap-3">
                 <p>{title[i18n.language as keyof MultiLingualField]}</p>
-                <p className="text-yellow-600 font-medium">${price}</p>
+                <p className="text-yellow-600 font-medium">€{price}</p>
               </div>
             </article>
           ))}
