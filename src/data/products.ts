@@ -190,19 +190,19 @@ const hotDrinks: Product[] = [
     id: "23",
     category: "hot-drinks",
     title: { ru: "Кофе Cappucino", en: "Cappuccino coffee" },
-    price: 4.5,
+    price: 4.35,
   },
   {
     id: "24",
     category: "hot-drinks",
     title: { ru: "Чай черный", en: "Black tea" },
-    price: 0.5,
+    price: 1.05,
   },
   {
     id: "25",
     category: "hot-drinks",
     title: { ru: "Чай зеленый", en: "Green tea" },
-    price: 0.5,
+    price: 1.05,
   },
 ]
 
