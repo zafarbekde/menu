@@ -4,6 +4,7 @@
 
 html {
   @apply bg-stone-100;
+  @apply bg-stone-40;
 }
 
 .container {
